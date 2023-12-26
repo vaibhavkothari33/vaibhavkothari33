@@ -26,5 +26,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br><br>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=vaibhavkothari33&label=Profile%20Views&color=0&icon=2&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=vaibhavkothari33&label=Profile%20Views&color=0&icon=2&pretty=false">
 </a>
