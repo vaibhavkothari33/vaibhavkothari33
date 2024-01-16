@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Greetings, I'm Vaibhav Kothari!<br><br>A vibrant developer traversing the realms of web development with a knack for creating seamless experiences using HTML, CSS, and JavaScript. Python is my versatile companion, empowering me in a spectrum of projects. Delving into Java, I find joy in sculpting elegant solutions through algorithms and data structures.<br><br>🌱 Learning Journey: Currently immersing myself in the intricacies of Machine Learning, seeking to unravel its mysteries and integrate it into my problem-solving arsenal.<br><br>
 Check out this custom Terminal <a href="https://vaibhavkothari33.github.io/Vaibhav_terminal/" target="_blank">Custom Terminal</a>
+Portfolio <a herf="https://vaibhavkothari33.github.io/vaibhav_portfolio_website/index.html" target="_blank">Website</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhavkothari_33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-kothari-39549428a) 
