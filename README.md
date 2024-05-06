@@ -3,8 +3,8 @@
 
 <h2>Contributor at #GSSoC2024 </h2>
 Check out this custom Terminal <a href="https://vaibhavkothari33.github.io/Vaibhav_terminal/" target="_blank">Custom Terminal</a> <br>
-Portfolio <a href="https://vaibhavkothari33.github.io/vaibhav_portfolio_website/index.html" target="_blank">Website</a>
-[![An image of @vaibhavkothari33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavkothari33)](https://holopin.io/@vaibhavkothari33)
+Portfolio <a href="https://vaibhavkothari33.github.io/vaibhav_portfolio_website/index.html" target="_blank">Website</a><br>
+[![An image of @vaibhavkothari33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavkothari33)](https://holopin.io/@vaibhavkothari33)<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhavkothari_33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-kothari-39549428a) 
