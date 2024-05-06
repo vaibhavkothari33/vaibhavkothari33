@@ -1,5 +1,7 @@
 # 💫 About Me:
 👋 Greetings, I'm Vaibhav Kothari!<br><br>A vibrant developer traversing the realms of web development with a knack for creating seamless experiences using HTML, CSS, and JavaScript. Python is my versatile companion, empowering me in a spectrum of projects. Delving into Java, I find joy in sculpting elegant solutions through algorithms and data structures.<br><br>🌱 Learning Journey: Currently immersing myself in the intricacies of Machine Learning, seeking to unravel its mysteries and integrate it into my problem-solving arsenal.<br><br>
+
+<h2>Contributor at #GSSoC2024 </h2>
 Check out this custom Terminal <a href="https://vaibhavkothari33.github.io/Vaibhav_terminal/" target="_blank">Custom Terminal</a> <br>
 Portfolio <a href="https://vaibhavkothari33.github.io/vaibhav_portfolio_website/index.html" target="_blank">Website</a>
 [![An image of @vaibhavkothari33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavkothari33)](https://holopin.io/@vaibhavkothari33)
