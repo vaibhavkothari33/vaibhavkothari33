@@ -24,8 +24,8 @@ Portfolio <a href="https://vaibhavkothari33.github.io/vaibhav_portfolio_website/
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavkothari33&show_icons=true&locale=en&theme=tokyonight" alt="vaibhavkothari33" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkothari33&theme=tokyonight" alt="vaibhavkothari33" /></p> <
-br>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkothari33&theme=tokyonight" alt="vaibhavkothari33" /></p> 
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavkothari33&theme=radical&no-frame=false&no-bg=true&margin-w=4)
