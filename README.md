@@ -3,7 +3,7 @@
 👋 Greetings, I'm Vaibhav Kothari!
 <br><br>A vibrant developer traversing the realms of web development with a knack for creating seamless experiences using HTML, CSS, and JavaScript. Python is my versatile companion, empowering me in a spectrum of projects. Delving into Java, I find joy in sculpting elegant solutions through algorithms and data structures.<br><br>🌱 Learning Journey: Currently immersing myself in the intricacies of Machine Learning, seeking to unravel its mysteries and integrate it into my problem-solving arsenal.<br><br>
 
-Check out this custom Terminal <a href="https://vaibhavkothari33.github.io/Vaibhav_terminal/" target="_blank">Custom Terminal</a> <br>
+Check out this custom Terminal <a href="https://vaibhavkothari33.github.io/Vaibhav_terminal/" target="_blank">Custom Terminal</a><br>
 Portfolio <a href="https://vaibhavkothari33.github.io/vaibhav_portfolio_website/index.html" target="_blank">Website</a><br>
 <h2>Contributor at #GSSoC2024 </h2>
 
