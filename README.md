@@ -7,6 +7,7 @@ Check out this custom Terminal <a href="https://vaibhavkothari33.github.io/Vaibh
 Portfolio <a href="https://vaibhavkothari33.github.io/vaibhav_portfolio_website/index.html" target="_blank">Website</a><br>
 <h2>Contributor at #GSSoC2024 </h2>
 [![An image of @vaibhavkothari33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavkothari33)](https://holopin.io/@vaibhavkothari33)
+### 
 ## 🌐 Socials: 
 ![](https://komarev.com/ghpvc/?username=vaibhavkothari33)
 
