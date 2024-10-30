@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/>
+<img 
+src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/>
 👋 Greetings, I'm Vaibhav Kothari! <br>
 <br> A vibrant developer traversing the realms of web development with a knack for creating seamless experiences using React Js, HTML, CSS, and JavaScript. Python is my versatile companion, empowering me in a spectrum of projects. Delving into Java, I find joy in sculpting elegant solutions through algorithms and data structures.<br><br>🌱 Learning Journey: Currently immersing myself in the intricacies of Machine Learning, seeking to unravel its mysteries and integrate it into my problem-solving arsenal.<br><br>
 
