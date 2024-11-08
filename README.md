@@ -37,6 +37,7 @@ Portfolio <a href="https://vaibhavkothari33.github.io/vaibhav_portfolio_website/
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhavkothari33&theme=2077" height="180em" /> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhavkothari33&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaibhavkothari33&theme=2077" height="180em" />
+  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaibhavkothari33&theme=2077" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavkothari33&theme=2077" height="180em" />
 </div>
