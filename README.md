@@ -1,10 +1,10 @@
 <img 
 src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/>
 👋 Greetings, I'm Vaibhav Kothari! <br>
-<br> A vibrant developer traversing the realms of web development with a knack for creating seamless experiences using React JS, HTML, CSS, and JavaScript. Python is my versatile companion, empowering me in a spectrum of projects. Delving into Java, I enjoy sculpting elegant solutions through algorithms and data structures.<br><br>🌱 Learning Journey: I am currently immersing myself in the intricacies of Machine Learning, seeking to unravel its mysteries and integrate it into my problem-solving arsenal.<br><br>
+<br> A vibrant developer traversing the realms of web development with a knack for creating seamless experiences using NextJs, TypeScript, React JS, JavaScript, HTML, and CSS. Python is my versatile companion, empowering me in a spectrum of projects. Delving into Java, I enjoy sculpting elegant solutions through algorithms and data structures.<br><br>🌱 Learning Journey: I am currently immersing myself in the intricacies of Machine Learning, seeking to unravel its mysteries and integrate it into my problem-solving arsenal.<br><br>
 
 Check out this custom Terminal <a href="https://vaibhavkothari33.github.io/Vaibhav_terminal/" target="_blank">Custom Terminal</a><br>
-Portfolio <a href="https://vaibhavkothari33.github.io/vaibhav_portfolio_website/index.html" target="_blank">Website</a><br>
+Portfolio <a href="https://vaibhavkothari.vercel.app/" target="_blank">Website</a><br>
 <h2>Contributor at #GSSoC2024 </h2>
 
 [![An image of @vaibhavkothari33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavkothari33)](https://holopin.io/@vaibhavkothari33)
