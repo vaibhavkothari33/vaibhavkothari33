@@ -1,11 +1,22 @@
-<img
-src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/>
-👋 Greetings, I'm Vaibhav Kothari! <br>
-<br> A vibrant developer traversing the realms of web development with a knack for creating seamless experiences using Next Js, TypeScript, React JS, and JavaScript. Python is my versatile companion, empowering me in a spectrum of projects. Delving into CPP, I enjoy sculpting elegant solutions through algorithms and data structures.<br><br>🌱 Learning Journey: I am currently immersing myself in the intricacies of Machine Learning, seeking to unravel its mysteries and integrate it into my problem-solving arsenal.<br><be>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/>
 
-Check out this custom Terminal <a href="https://vaibhavkothari33.github.io/Vaibhav_terminal/" target="_blank">Custom Terminal</a><br>
-Portfolio <a href="https://vaibhavkothari.vercel.app/" target="_blank">Website</a><br>
-<h2>Contributor at #GSSoC2024 </h2>
+# 👋 Hey there, I'm Vaibhav Kothari!  
+
+🚀 **Full-Stack Developer | Open Source Enthusiast | Problem Solver**  
+
+I thrive on crafting seamless and dynamic web experiences using **Next.js, TypeScript, React.js, and JavaScript**.  
+My love for **Python** extends to diverse projects, while **C++** fuels my passion for algorithms and data structures.  
+
+## 🌱 Currently Exploring  
+- 🤖 **Machine Learning** – Diving into its complexities and integrating it into my projects.  
+- ⚡ **Performance Optimization** – Enhancing web applications for speed and efficiency.  
+
+## 🛠️ Projects & Links  
+🔹 **Custom Terminal** – [Explore Here](https://vaibhavkothari33.github.io/Vaibhav_terminal/)  
+🔹 **Portfolio Website** – [Check It Out](https://vaibhavkothari.vercel.app/)  
+
+## 🎯 Open Source & Community  
+✨ Contributor at **#GSSoC2024** 
 
 [![An image of @vaibhavkothari33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavkothari33)](https://holopin.io/@vaibhavkothari33)
 
