@@ -13,7 +13,7 @@ My love for **Python** extends to diverse projects, while **C++** fuels my passi
 
 ## 🛠️ Projects & Links  
 🔹 **Custom Terminal** – [Explore Here](https://vaibhavkothari33.github.io/Vaibhav_terminal/)  
-🔹 **Portfolio Website** – [Check It Out](https://vaibhavkothari.vercel.app/)  
+🔹 **Portfolio Website** – [Check It Out](https://vaibhavkothari.vercel.app/) 
 
 ## 🎯 Open Source & Community  
 ✨ Contributor at **#GSSoC2024**  
