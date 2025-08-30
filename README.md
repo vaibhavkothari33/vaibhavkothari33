@@ -3,7 +3,6 @@
 
 # 👋 Hey there, I'm Vaibhav Kothari!
 
-
 🚀 **Full-Stack Developer | Open Source Enthusiast | Problem Solver**
 
 I thrive on crafting seamless and dynamic web experiences using **Next.js, TypeScript, React.js, and JavaScript**.  
