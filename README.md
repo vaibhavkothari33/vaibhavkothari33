@@ -33,9 +33,7 @@ My love for **Python** extends to diverse projects, while **C++** fuels my passi
   <a href="https://github.com/vaibhavkothari33" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-<!--   <a href="https://instagram.com/vaibhavkothari_33" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a> -->
+
 </div>
 
 ## 💻 Tech Stack  
