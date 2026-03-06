@@ -4,16 +4,21 @@
 
 🚀 **Full-Stack Developer | Open Source Enthusiast | Problem Solver**
 
-I thrive on crafting seamless and dynamic web experiences using **Next.js, TypeScript, React.js, and JavaScript**.  
-My love for **Python** extends to diverse projects, while **C++** fuels my passion for algorithms and data structures.
+I'm a third-year Computer Science undergrad at **Bennett University** (CGPA: 9.1/10) specializing in AI/ML, with hands-on experience building and scaling modern web and AI-powered applications. I've shipped 10+ production projects across hackathons, freelance engagements, and open-source — reaching 1,000+ users and picking up multiple hackathon wins along the way.
 
-## 🌱 Currently Exploring  
-- 🤖 **Machine Learning** – Diving into its complexities and integrating it into my projects.  
-- ⚡ **Performance Optimization** – Enhancing web applications for speed and efficiency.  
+I enjoy working at the intersection of **performance, developer experience, and real-world impact** — whether that's architecting full-stack platforms, integrating AI pipelines, or contributing to open source.
+## 💼 Experience
 
-## 🛠️ Projects & Links  
-🔹 **Custom Terminal** – [Explore Here](https://vaibhavkothari33.github.io/Vaibhav_terminal/)  
-🔹 **Portfolio Website** – [Check It Out](https://vaibhavkothari.vercel.app/) 
+**Front-End Developer** — *Sapphire Broking* (Jan 2026 – Present) · Remote, India
+- Refactored large-scale front-end codebases with reusable, modular components to boost maintainability and dev velocity.
+- Restructured API call patterns to cut redundant requests and reduce perceived latency.
+- Implemented SSR, data-fetching optimizations, caching, and rate-limiting in Next.js to improve load times and SEO.
+
+**Full-Stack Engineer** — *TitanTech Investments* (Jun 2025 – Oct 2025) · Remote, UAE
+- Architected client-facing investment platforms serving 1,000+ active users across India and UAE.
+- Built automated Notion-based workflows that reduced manual content updates by **80%**.
+- Developed country-specific KYC onboarding — Aadhaar + DigiLocker (India) and Emirates ID + passport scanning (UAE).
+- Achieved **40%+ faster load times** and a **25% improvement** in user engagement metrics.
 
 ## 🎯 Open Source & Community  
 ✨ Contributor at **#GSSoC2024**  
@@ -53,4 +58,10 @@ My love for **Python** extends to diverse projects, while **C++** fuels my passi
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div align="center">
+
+*Open to full-time roles, freelance projects, and interesting collaborations.*
+**[Let's connect →](https://vaibhavkothari.me)**
+
+</div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
